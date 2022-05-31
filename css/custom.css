@@ -473,9 +473,7 @@ header .navbar.sticky-header{
     animation: rotation 2s alternate linear;
 	align-items: center;
 }
-/**************************************/
-/*****     Services Section css    ****/
-/**************************************/
+
 
 
 
@@ -653,8 +651,13 @@ header .navbar.sticky-header{
 }
 
 .single-portfolio{
+
 	position: relative;
 	margin-bottom: 30px;
+}
+.portfolio-box{
+	height: 400px;
+	width: 400px;
 }
 
 .single-portfolio-overlay{
